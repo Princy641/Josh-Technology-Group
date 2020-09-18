@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    /*background-image: url(../josh/bkg.png);*/
+    
+}
+/*.left{
+  display:inline-block;
+  right:34px;
+  top: 10px;
+  position: absolute;
+  color: rgb(84, 108, 243);
+
+  
+
+
+}
+.mid{
+  display:block;
+  width:33%;
+  margin: 20px auto;
+  border: 2px solid white;
+  color: rgb(84, 108, 243);
+  font-size: 10px;
+
+
+  
+
+}
+.right{
+  position: absolute;
+  right:34;
+  top: 22px;
+  display: inline-block;
+  border: 2px solid yellow;
+  color: rgb(84, 108, 243);
+
+
+
+}
+*/
+
+.header {
+  background: #FFFFFF;
+  color: blue;
+  padding:30px;
+  text-align: center;
+  border-bottom: 3px solid white;
+    
+}
+.topnav{
+  overflow: hidden;
+  background-color: blue;
+  background-position: center;
+  color: ;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
+  #example1 {
+    background-image: url(../josh/search_bk.png);
+    background-position: center;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+    
+  } 
+  #example1 input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+  }
+  
+  #example2 {
+    background-image: url(../josh/cycle_img1.png);
+    background-position: center;
+    background-repeat: no-repeat, repeat;
+    padding: 100px;
+
+  }
+/*  nav {
+    float: left;
+    width: 30%;
+    height: 300px; 
+    background: #ccc;
+    padding: 20px;
+  }*/
+  
+   nav ul {
+    list-style-type: none;
+    padding: 30px;
+  }
+  
+   
+  
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; 
+}
+
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+  
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }*/
+  /*footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }*/
+  
+  
+  
+  
